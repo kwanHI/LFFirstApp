@@ -25,7 +25,7 @@ SECRET_KEY = 'ud7ht**2c3i+2fl1mkq&uc)0_4lf!b_@x^@fh$g81=$fm*hi^)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'kwanLimpsangsri.lifefoundation.org']
+ALLOWED_HOSTS = ['http://127.0.0.1:8000', '*']
 
 
 # Application definition
